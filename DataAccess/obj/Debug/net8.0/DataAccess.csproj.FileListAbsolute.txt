@@ -1,0 +1,12 @@
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

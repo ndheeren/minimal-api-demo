@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[User] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[spUser_Delete] (Procedure)
+       [dbo].[spUser_Get] (Procedure)
+       [dbo].[spUser_GetAll] (Procedure)
+       [dbo].[spUser_Insert] (Procedure)
+       [dbo].[spUser_Update] (Procedure)

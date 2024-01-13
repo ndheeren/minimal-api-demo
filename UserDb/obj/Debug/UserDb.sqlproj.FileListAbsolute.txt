@@ -1,0 +1,10 @@
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\bin\Debug\UserDb.dacpac
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\UserDb.sqlproj.AssemblyReference.cache
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\UserDb.dll
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\UserDb.pdb
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\bin\Debug\UserDb.dll
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\bin\Debug\UserDb.pdb
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\Model.xml
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\refactor.xml
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\postdeploy.sql
+C:\Users\Apthorpe\dev\source\repos\MinimalApiDemoApp\UserDb\obj\Debug\predeploy.sql

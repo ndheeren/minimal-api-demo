@@ -1,0 +1,48 @@
+### coverage
+
+Features:
+-API
+-CRUD operations
+
+Language(s) used:
+-C#
+-json
+-T-SQL
+-XML
+
+Some techs used:
+-ASP.NET
+-Dapper
+-.NET (specifically .NET 8.0 LTS)
+-.NET Core (the project type is ASP.NET Core Web API)
+-SQL Server
+-Swagger
+
+Some techniques used:
+-dependency injection
+-minimal API
+-RESTful routing
+-stored procedures
+
+Built with Visual Studio 2022.
+
+###
+
+About Minimal APIs:
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio
+
+###
+
+This solution was based on the following Tim Corey tutorials:
+https://youtu.be/dwMFg6uxQ0I
+https://youtu.be/5tYSO5mAjXs
+
+If you're using Chrome and it's complaining about your connection not being private and won't let you proceed, you can try clicking anywhere in the browser window and typing (i) 'thisisunsafe'.
+-(i) not copying and pasting
+
+Original connection string: "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=MinimalApiUserDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"
+
+A significant departure from the tutorial version was my connection string. To get it to work I had to end up removing these portions:
+Trust Server Certificate=False
+Application Intent=ReadWrite
+Multi Subnet Failover=False
